@@ -36,13 +36,13 @@ Se diseñaron los planos de la empresa utilizando Draw.io para representar la di
 
 \### Piso 1
 
-!\[Plano1](PLANOS-DIAGRAMAS/PLANO-P1.jpeg)
+!\[Plano1](PLANOS-DIAGRAMAS/plano1.jpeg)
 
 
 
 \### Piso 2
 
-!\[Plano2](PLANOS-DIAGRAMAS/PLANO-P2.jpeg)
+!\[Plano2](PLANOS-DIAGRAMAS/plano2.jpeg)
 
 
 
@@ -56,11 +56,11 @@ Diseño de topología de red empresarial simulada en Cisco Packet Tracer, incluy
 
 
 
-!\[Topología](TOPOLOGIA-CISCO/ESTRUCTURA-RED.png)
+!\[Topología](TOPOLOGIA-CISCO/estructura-red.png)
 
 
 
-!\[Topología](TOPOLOGIA-CISCO/VISTA-DISEÑO.png)
+!\[Topología](TOPOLOGIA-CISCO/plano-completo.png)
 
 
 
@@ -72,19 +72,19 @@ Se realizaron pruebas de conectividad mediante comandos ping para validar la com
 
 
 
-!\[Ping](CONFIGURACION-ROUTER/ASIGNACION-IP-ROUTER.png)
+!\[Ping](CONFIGURACION-ROUTER/asignacion-ip-router.png)
 
 
 
-!\[Ping](CONFIGURACION-ROUTER/IDENTIFICACION-RED-ROUTER.png)
+!\[Ping](CONFIGURACION-ROUTER/identificacion-red-router.png)
 
 
 
-!\[Ping](CONFIGURACION-ROUTER/IDENTIFICACION-RED-AP.png)
+!\[Ping](CONFIGURACION-ROUTER/identificacion-red-ap.png)
 
 
 
-!\[Ping](CONFIGURACION-ROUTER/VERIFICACION-PING.png)
+!\[Ping](CONFIGURACION-ROUTER/verificacion-ping.png)
 
 
 
