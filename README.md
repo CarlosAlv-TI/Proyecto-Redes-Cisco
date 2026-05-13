@@ -2,11 +2,11 @@
 
 
 
-\## Descripción
+\## Descripcion
 
 
 
-Proyecto de infraestructura de red empresarial desarrollado en Cisco Packet Tracer, aplicando conceptos de routing, switching y direccionamiento IPv4. Se realizaron configuraciones de routers, switches y dispositivos finales, incluyendo pruebas de conectividad y verificación del funcionamiento de la red mediante herramientas de diagnóstico.
+Proyecto de infraestructura de red empresarial desarrollado en Cisco Packet Tracer, aplicando conceptos de routing, switching y direccionamiento IPv4. Se realizaron configuraciones de routers, switches y dispositivos finales, incluyendo pruebas de conectividad y verificacion del funcionamiento de la red mediante herramientas de diagnostico.
 
 &#x20;
 
@@ -30,7 +30,7 @@ Proyecto de infraestructura de red empresarial desarrollado en Cisco Packet Trac
 
 
 
-Se diseñaron los planos de la empresa utilizando Draw.io para representar la distribución de las áreas y la ubicación de los dispositivos de red dentro de la infraestructura.
+Se disenaron los planos de la empresa utilizando Draw.io para representar la distribucion de las areas y la ubicacion de los dispositivos de red dentro de la infraestructura.
 
 
 
@@ -48,27 +48,27 @@ Se diseñaron los planos de la empresa utilizando Draw.io para representar la di
 
 
 
-\### Topología
+\### Topologia
 
 
 
-Diseño de topología de red empresarial simulada en Cisco Packet Tracer, incluyendo la interconexión de múltiples áreas mediante dispositivos de red configurados para garantizar conectividad, organización y comunicación eficiente entre los equipos.
+Diseno de topologia de red empresarial simulada en Cisco Packet Tracer, incluyendo la interconexion de multiples areas mediante dispositivos de red configurados para garantizar conectividad, organizacion y comunicacion eficiente entre los equipos.
 
 
 
-!\[Topología](TOPOLOGIA-CISCO/estructura-red.png)
+!\[Topologia](TOPOLOGIA-CISCO/estructura-red.png)
 
 
 
-!\[Topología](TOPOLOGIA-CISCO/plano-completo.png)
+!\[Topologia](TOPOLOGIA-CISCO/plano-completo.png)
 
 
 
-\### Validación de conectividad
+\### Validacion de conectividad
 
 
 
-Se realizaron pruebas de conectividad mediante comandos ping para validar la comunicación entre dispositivos y verificar que no existieran pérdidas de paquetes en la red.
+Se realizaron pruebas de conectividad mediante comandos ping para validar la comunicacion entre dispositivos y verificar que no existieran perdidas de paquetes en la red.
 
 
 
@@ -92,7 +92,7 @@ Se realizaron pruebas de conectividad mediante comandos ping para validar la com
 
 
 
-El archivo principal de la simulación de red de encuentra incluido en este repositorio en formato .pkt.
+El archivo principal de la simulacion de red de encuentra incluido en este repositorio en formato .pkt.
 
 
 
